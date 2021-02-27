@@ -1,0 +1,28 @@
+.header img{
+    height: 80px;
+}
+
+.header{
+    text-align: center;
+}
+.header nav{
+    background: #222222;
+}
+.header nav a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+    line-height: 50px;
+    padding: 5px 8px;
+    margin-right: 15px;
+    transition: all linear .3s;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.header nav a:hover{
+    background: gray
+}
+.header nav a:last-child{
+    margin-right: 0;
+}

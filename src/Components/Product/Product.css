@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.product{
+    display: flex;
+    border-bottom: 1px solid #dddddd;
+    margin-bottom: 20px;
+}
+
+.product-text{
+    padding-left: 15px
+}
+
+.text-bottom{
+    display: flex;
+    margin: 10px 0 0;
+}
+
+.right-text{
+    margin-left: 80px
+}
+
+.right-text ul{
+    padding-left: 40px;
+    font-size: 12px;
+}
+
+h3{
+    padding: 4px;
+}
+
+button{
+    margin: 10px 0;
+    padding: 13px 42px;
+    background: yellowgreen;
+    border: 0;
+}
